@@ -1,5 +1,5 @@
 name: "au.cat"
-output_dir: "docs"
+output_dir: "."
 navbar:
   title: "Construint es web"
   left:
@@ -7,9 +7,6 @@ navbar:
       href: index.html
     - text: "So qui so"
       href: about.html
-  right:
-    - icon: fa-github
-      href: https://github.com/audald
 output:
   html_document:
     theme: cerulean
