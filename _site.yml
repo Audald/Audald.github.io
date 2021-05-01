@@ -1,5 +1,5 @@
 name: "au.cat"
-output_dir: "."
+output_dir: "docs"
 navbar:
   title: "Construint es web"
   left:
