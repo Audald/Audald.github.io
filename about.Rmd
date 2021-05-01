@@ -2,4 +2,5 @@
 title: "Sobre aquest web"
 ---
 
-More about this website.
+No hi poso més informació perquè el títol em diu que ha de ser a sobre.
+
