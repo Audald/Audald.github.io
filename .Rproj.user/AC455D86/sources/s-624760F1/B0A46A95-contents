@@ -4,9 +4,9 @@ navbar:
   title: "Construint es web"
   left:
     - text: "Casa"
-      href: htmls/index.html
+      href: index.html
     - text: "So qui so"
-      href: htmls/about.html
+      href: about.html
   right:
     - icon: fa-github
       href: https://github.com/audald
