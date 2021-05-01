@@ -1,0 +1,16 @@
+name: "au.cat"
+output_dir: "/Users/audald/au.cat"
+navbar:
+  title: "Construint es web"
+  left:
+    - text: "Casa"
+      href: index.html
+    - text: "So qui so"
+      href: about.html
+  right:
+    - text: "Provo coses"
+      href: prova.html
+    - icon: fa-github
+      href: https://github.com/audald
+output:
+  html_document
