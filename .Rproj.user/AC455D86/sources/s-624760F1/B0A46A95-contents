@@ -1,15 +1,13 @@
 name: "au.cat"
-output_dir: "/Users/audald/au.cat"
+output_dir: "htmls"
 navbar:
   title: "Construint es web"
   left:
     - text: "Casa"
-      href: index.html
+      href: htmls/index.html
     - text: "So qui so"
-      href: about.html
+      href: htmls/about.html
   right:
-    - text: "Provo coses"
-      href: prova.html
     - icon: fa-github
       href: https://github.com/audald
 output:
