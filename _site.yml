@@ -1,7 +1,7 @@
 name: "au.cat"
 output_dir: "docs"
 navbar:
-  title: "Construint es web"
+  title: "Construint sa web"
   left:
     - text: "Casa"
       href: index.html

@@ -1,6 +1,6 @@
 ---
-title: "Sobre aquest web"
+title: "Jo sóc jo"
 ---
 
-No hi poso més informació perquè el títol em diu que ha de ser a sobre.
+Qui sóc, us preguntareu? Aviat ho explicarem, nais!
 
