@@ -4,3 +4,4 @@ title: "Jo sóc jo"
 
 Qui sóc, us preguntareu? Aviat ho explicarem, nais!
 
+![Konjunktiv-I](images/Konjunktiv_I.png)
